@@ -1,0 +1,65 @@
+{
+  "nombre_grupo": "Imagine Dragons",
+  "nombre_gira": "Everyday Mushrooms",
+  "anyo": 2021,
+  "num_conciertos": 12,
+  "musicos": [
+    {
+      "nombre": "Dan Reynolds",
+      "instrumentos": ["vocalista", "guitarra rítmica", "piano"]
+    },
+    {
+      "nombre": "Wayne Sermon",
+      "intrumentos": ["guitarra principal", "coros", "mandolina",
+        "batería", "percusión"]
+    },
+    {
+      "nombre": "BenMcKee",
+      "intrumentos": ["bajo", "piano", "telados", "sintetizadores", "coros"]
+    },
+    {
+      "nombre": "Daniel Platzman",
+      "intrumentos": ["betería", "viola", "teclado"]
+    }
+  ],
+  "conciertos": [
+    {
+      "lugar": {
+        "ciudad": "Berlin",
+        "pais": "Alemania",
+        "recinto": "Berlinale"
+      },
+      "fecha": "15/2/2021",
+      "espectadores": 3500,
+      "canciones": [
+        "Boomerang",
+        "Machine",
+        "Cool Out",
+        "West Coast",
+        "Bullet in a gun",
+        "Digital",
+        "Love"
+      ],
+      "duracion": 54,
+      "televisado": false
+    },
+    {
+      "ciudad": "Amsterdam",
+      "pais": "Paises Bajos",
+      "fecha": "23/2/2021",
+      "lugar": "Amsterdam Arena",
+      "espectadores": 6700,
+      "canciones": [
+        "Cool Out",
+        "West Coast",
+        "Only",
+        "Zero",
+        "Machine",
+        "Digital",
+        "Love"
+      ],
+      "duracion": 57,
+      "televisado": true
+    }
+  ]
+}
